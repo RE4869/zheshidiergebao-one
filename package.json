@@ -1,0 +1,26 @@
+{
+"name": "zheshiwodiergebao-one",
+"version": "1.0.0",
+"description": "support and online help to address various issu",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/RE4869/zheshidiergebao-one.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "RE4869",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}

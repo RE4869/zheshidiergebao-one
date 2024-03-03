@@ -1,0 +1,1 @@
+Provides detailed technical support and online help to address various issues encountered by users
